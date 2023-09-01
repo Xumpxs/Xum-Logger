@@ -7,6 +7,7 @@
   <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
   <br>
   <img  src="https://img.shields.io/github/languages/top/Smug246/Luna-Token-Grabber?color=6d00c1">
+  <img scr="https://img.shields.io/badge/Functional%3F-No-red"
 </div>
 
 ## Features
